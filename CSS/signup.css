@@ -1,0 +1,50 @@
+.err {
+    color: red;
+}
+
+body {
+    background-image: url(../Images/background.jpg);
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  color: midnightblue;
+}
+
+#symbol {
+  height: 100px;
+  display: block;
+  padding: 10px;
+  width: 100px;
+  margin: auto;
+}
+
+.submit-button {
+  color: white;
+  height: 50px;
+  width: 150px;
+  background-color: midnightblue;
+  font-size: 30px;
+}
+
+.sub {
+  padding-top: 30px;
+}
+
+.main {
+  margin: auto;
+  width: 50%;
+  font-size: 30px;
+  padding-left: 30px;
+  padding-top: 20px;
+  border: 5px solid midnightblue;
+  background-color: white;
+  height: 500px;
+  color: midnightblue;
+  position: relative;
+}
+
+label {
+  padding-bottom: 30px;
+}

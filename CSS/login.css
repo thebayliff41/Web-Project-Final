@@ -1,0 +1,45 @@
+.err {
+    color: red;
+}
+
+body {
+    background-image: url(../Images/background.jpg);
+}
+
+h1 {
+  text-align: center;
+  margin: auto;
+  color: midnightblue;
+}
+
+.submit-button {
+  color: white;
+  height: 50px;
+  width: 150px;
+  background-color: midnightblue;
+  font-size: 30px;
+}
+
+.sub {
+  padding-top: 30px;
+}
+
+#symbol {
+  height: 100px;
+  display: block;
+  padding: 10px;
+  width: 100px;
+  margin: auto;
+}
+
+.main {
+  margin: auto;
+  width: 50%;
+  font-size: 30px;
+  padding-left: 30px;
+  border: 5px solid midnightblue;
+  background-color: white;
+  height: 450px;
+  color: midnightblue;
+  position: relative;
+}

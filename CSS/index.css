@@ -1,0 +1,120 @@
+img {
+    width: 25%;
+}
+
+body {
+background-image: url(../Images/background.jpg);
+padding-top: 120px;
+padding bottom: 40px;
+}
+
+.main {
+
+}
+
+#symbol {
+  height: 175px;
+  margin-top: 20px
+  padding: 10px;
+  width: 175px;
+}
+
+.buttongroup {
+  color: black;
+  padding: 10px 24px;
+  cursor: pointer;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 50px;
+}
+
+.button {
+  color: white;
+  background: navy;
+  border: 2px solid midnightblue;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  width: 400px;
+  height: 75px;
+  font-size: 40px;
+}
+
+.button:hover {
+  background-color: white;
+  color: navy;
+  font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    /*color: white;
+    background-color: navy;
+    width: 60%;
+    font-size: 50px;
+    height: 125px;
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-shadow: 5px;
+    */
+}
+
+.fixed-header {
+  width: 100%;
+  position: fixed;
+  height: 80px;
+  background: midnightblue;
+  padding: 10px;
+  color: white;
+  top: 0;
+}
+
+h2 {
+    text-align: center;
+    color: midnightblue;
+    width: 25%;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+strong {
+    text-align: center;
+    color: midnightblue;
+    font-size: 18pt;
+}
+
+.home-info {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.creators {
+    display: table;
+    width: 100%;
+}
+
+.creator1 {
+    display: table-cell;
+    padding-left: 7em;
+    font-size: 16pt;
+    background-color: white;
+}
+
+.creator2 {
+    display: table-cell;
+    font-size: 16pt;
+    background-color: white;
+}
+
+.creator3 {
+    display: table-cell;
+    padding-right: 5.5em;
+    font-size: 16pt;
+    background-color: white;
+}
